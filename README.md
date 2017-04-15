@@ -139,7 +139,7 @@ Code, line 8, should say 'isInstanceOf' instead of 'insistence'
 ### Page 439 
 Code, line 11, should use 'identifier.isWildcard()' as the previous algorithm
 
-## Chapter 6: Learning
+## Chapter 7: Learning
 
 ### Page 586 
 line 24 of the algorithm, `function` should be called with the full array, just like in the beginning of the algorithm.
