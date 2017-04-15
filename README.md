@@ -1,5 +1,5 @@
 # AI4G-Errata
-Errata for the second edition of [Artificial Intelligence for Games](https://www.amazon.com/Artificial-Intelligence-Games-Ian-Millington/dp/0123747317).This page is based on a backup of the official errata webpage and the arrata at [perl-hackers.net](http://perl-hackers.net/doku.php?id=games:aigerrata).
+Errata for the second edition of [Artificial Intelligence for Games](https://www.amazon.com/Artificial-Intelligence-Games-Ian-Millington/dp/0123747317). This page is based on a backup of the official errata webpage and the arrata at [perl-hackers.net](http://perl-hackers.net/doku.php?id=games:aigerrata).
 
 ## Chapter3: Movement
 
